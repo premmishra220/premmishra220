@@ -143,8 +143,8 @@ Complete online shopping platform with authentication, product management and or
 # Connect With Me
 
 - LinkedIn : www.linkedin.com/in/prem-prakash-mishra-20516a288
-- Portfolio : YOUR_PORTFOLIO
-- Email : YOUR_EMAIL
+- Portfolio : https://prem-portfolio-3xwd.versal.app
+- Email : premmishrasonb@gmail.com
 
 ---
 
