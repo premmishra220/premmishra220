@@ -2,154 +2,117 @@
 
 # Prem Prakash Mishra
 
-### Full Stack MERN Developer | Backend Enthusiast | Software Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Backend+Development+Enthusiast;Java+%7C+C%2B%2B+%7C+OOPS;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+### Java & Spring Boot Backend Developer | Microservices Architecture | System Design
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I am **Prem Prakash Mishra**, a passionate Full Stack MERN Developer with a strong interest in designing scalable, secure and high-performance web applications.
+I am **Prem Prakash Mishra**, a passionate Backend Developer focused on designing scalable, secure, and high-performance backend architectures and enterprise-grade distributed systems. 
 
-I enjoy solving real-world problems through clean architecture, efficient backend development and modern frontend technologies. I continuously improve my skills by building projects and exploring new technologies.
+I transform complex business logic into clean, maintainable code through robust API design, advanced concurrency, and microservices patterns. Always eager to architect solutions that scale seamlessly under heavy loads.
 
-- Full Stack MERN Developer
-- Backend Development
-- REST API Development
-- Authentication & Authorization
-- Database Design
-- Object-Oriented Programming
-- Clean Code
-- Problem Solving
-- Open to Software Development Opportunities
+- Core Expertise: Java, Spring Boot, Spring Cloud, Hibernate / JPA
+- Architecture: Microservices, RESTful APIs, Event-Driven Systems
+- Security: Spring Security, JWT, OAuth2
+- Databases: MySQL, PostgreSQL, MongoDB, Redis
+- DevOps & Tools: Docker, Maven, Git, GitHub, Postman, Linux
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Languages
-
+### Languages & Core
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,js" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts" />
 </p>
 
-## Frontend
-
+### Backend Frameworks & Architecture
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express" />
 </p>
 
-## Backend
-
+### Databases & Caching
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
 </p>
 
-## Tools & Technologies
-
+### DevOps, Tools & Environment
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,maven,git,github,postman,vscode,linux" />
 </p>
 
 ---
 
-# Core Computer Science Skills
+## Core Computer Science Skills
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management System
-- Operating System
-- Computer Networks
-- REST APIs
-- JWT Authentication
-- Git & GitHub
-- Software Development
+| Domain | Key Focus Areas |
+| :--- | :--- |
+| **Data Structures & Algorithms** | Problem Solving, Optimization, Time/Space Complexity |
+| **Object-Oriented Programming** | SOLID Principles, Design Patterns, Clean Code Architecture |
+| **System Design & Scale** | Microservices Patterns, Load Balancing, Distributed Caching |
+| **Database Management** | ACID Properties, Indexing, Query Optimization, ORM Mapping |
+| **Networks & OS** | TCP/IP, HTTP/HTTPS, Concurrency, Multi-threading |
 
 ---
 
-# Featured Projects
+## Featured Backend Projects
 
-### Travel Booking Platform
+### Enterprise Travel Booking Backend
+> A scalable backend architecture built with Spring Boot and Spring Cloud, featuring secure REST APIs, ACID transaction management, and robust relational database integration.
 
-A modern MERN Stack application featuring authentication, booking management, responsive design and scalable backend architecture.
+### Role-Based Learning Management System API
+> Secure backend service for an LMS featuring Role-Based Access Control (RBAC), optimized database queries, course management endpoints, and global exception handling.
 
----
+### E-Commerce Microservices Architecture
+> A distributed backend system leveraging microservices patterns for product catalogs, user authentication, inventory tracking, and asynchronous order processing.
 
-### Learning Management System
+### Real-Time Chat & Messaging Service
+> High-performance messaging backend built with WebSockets and asynchronous message queues for instant, low-latency communication.
 
-Role-based learning platform with secure authentication, course management, student dashboard and RESTful APIs.
-
----
-
-### Portfolio Website
-
-Professional developer portfolio showcasing projects, skills and technical experience.
-
----
-
-### Chat Application
-
-Real-time messaging platform built using modern web technologies.
+### Scalable RESTful Authentication Service
+> Robust authentication and authorization microservice featuring JWT, Spring Security, and secure session management.
 
 ---
 
-### E-Commerce Platform
+## Currently Exploring
 
-Complete online shopping platform with authentication, product management and order workflow.
-
----
-
-# Currently Exploring
-
-- Advanced Backend Development
-- System Design
-- Docker
-- AWS Fundamentals
-- Performance Optimization
+- Distributed Caching & In-Memory Data Stores (Redis)
+- Event-Driven Architecture (Apache Kafka & RabbitMQ)
+- Container Orchestration & Cloud Deployment (Docker, Kubernetes, AWS)
+- Performance Tuning & JVM Garbage Collection Optimization
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prem-prakash-mishra-20516a288&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-prakash-mishra-20516a288&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=prem-prakash-mishra-20516a288&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-prakash-mishra-20516a288&theme=tokyonight&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# Connect With Me
+## Connect With Me
 
-- LinkedIn : www.linkedin.com/in/prem-prakash-mishra-20516a288
-- Portfolio : https://prem-portfolio-3xwd.versal.app
-- Email : premmishrasonb@gmail.com
+- LinkedIn: [prem-prakash-mishra-20516a288](https://www.linkedin.com/in/prem-prakash-mishra-20516a288)
+- Portfolio: [prem-portfolio-3xwd.versal.app](https://prem-portfolio-3xwd.versal.app)
+- Email: premmishrasonb@gmail.com
 
 ---
 
 <div align="center">
 
-### "Writing clean code, building scalable systems and continuously learning."
+### "Architecting robust backends, scaling distributed systems, and engineering high-performance software solutions."
 
 </div>
